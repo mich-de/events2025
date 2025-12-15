@@ -1,1 +1,12 @@
-id,Titolo Evento,Inizio Evento,Fine Evento,Orario Inizio Evento,Orario Fine Evento,Descrizione Breve,Descrizione Lunga,Categoria Evento,immagine,Location Evento,Cordinate GPS,Immagine Base64
+Dove,Inizio Evento,Fine Evento,Orario Inizio,Orario Fine,Orario,Titolo,Descrizione,Categoria
+"Piazza, Massaquano","2025-12-14","","12:30","","12:30","Pranzo in Piazza","Lunch event held in the town square.","Food"
+"Massaquano","2025-12-13","","19:00","","19:00","Gennaro De Rosa - Live Cabaret","Live cabaret performance by Gennaro De Rosa.","Concert"
+"Massaquano","2025-12-13","","19:00","","19:00","Mario Generali Live Music","Live music performance by Mario Generali.","Concert"
+"Massaquano","2025-12-13","","19:00","","19:00","Food Stand: Panini, Un Primo e Zeppolata","Food service including sandwiches, a first course, and zeppole.","Food"
+"Massaquano","2025-12-12","","19:30","","19:30","Pastelese Sound Group ""I Bottari di Macerata Campania""","Live performance by the Pastelese Sound Group ""I Bottari di Macerata Campania"", organized by Coop. Cerchi d'Acqua.","Concert"
+"Massaquano","2025-12-12","","19:30","","19:30","Animazione per Bambini","Entertainment activities for children.","Concert"
+"Massaquano","2025-12-12","","19:30","","19:30","Food Stand: Panini, Un Primo e Zeppolata","Food service including sandwiches, a first course, and zeppole.","Food"
+"Massaquano","2025-12-12","","19:30","","19:30","Santa Messa e Falò di S. Lucia","Holy Mass followed by the Bonfire of St. Lucia.","Religious"
+"Massaquano","2025-12-12","","16:00","","16:00","Presepe Vivente e Canti","Live Nativity Scene and carol singing, organized by I.C. Caulino.","Religious"
+"Massaquano","2025-12-12","","16:00","","16:00","Inizio della Zeppolata","Start of the serving of traditional zeppole pastries.","Food"
+"Massaquano","2025-12-12","","16:00","","16:00","Lancio delle Nocciole","Traditional ""Throwing of Hazelnuts"" event.","Food"
