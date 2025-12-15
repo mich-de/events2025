@@ -1,1 +1,2 @@
-Dove,Inizio Evento,Fine Evento,Orario Inizio,Orario Fine,Orario,Titolo,Descrizione,Categoria,imageUrl,Direttore,Organo,Violino,Flauto,Percussioni
+Dove,Inizio Evento,Fine Evento,Orario Inizio Evento,Orario Fine Evento,Titolo Evento,Descrizione Evento,Categoria Evento ,imageUrl base64, Location Evento, Cordinate GPS
+
