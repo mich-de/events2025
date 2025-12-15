@@ -1,1 +1,3 @@
-id,Titolo Evento,Inizio Evento,Fine Evento,Orario Inizio Evento,Orario Fine Evento,Descrizione Breve,Descrizione Lunga,Categoria Evento,immagine,Location Evento,Cordinate GPS,Immagine Base64
+Dove,Inizio Evento,Fine Evento,Orario Inizio,Orario Fine,Orario,Titolo,Descrizione,Categoria
+"Chiesa dei Servi di Maria, Sorrento","2025-12-05","2025-12-05","19:30","","19:30","5 dicembre 2025","Concerto con il Coro Estro Armonico. Ingresso libero.","Concert"
+"Chiesa dei Servi di Maria, Sorrento","2025-12-20","2025-12-20","19:30","","19:30","20 dicembre 2025","Concerto con il Duce Siciliane Saxophone Ensemble. Ingresso libero.","Concert"
